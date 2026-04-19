@@ -128,8 +128,8 @@ QL_Score = 70.91 + 0.11 * Age - 1.71 * Service Type
 
 ## How to Run
 
-1. Clone the repository: 'git clone https://github.com/EeshaKulkarni77/Community-Health-EDA.git'
-2. Open the notebook: 'Community_Health_EDA.ipynb'
+1. Clone the repository: `git clone https://github.com/EeshaKulkarni77/Community-Health-EDA.git`
+2. Open the notebook: `Community_Health_EDA.ipynb`
 3. Run all cells  
 
 ---
